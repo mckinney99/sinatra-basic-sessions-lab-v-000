@@ -12,4 +12,3 @@ class App < Sinatra::Base
       "#{@item}"
     end
   end
-
