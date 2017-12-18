@@ -6,7 +6,7 @@ class App < Sinatra::Base
     erb :index
 
     post '/checkout' do
-      
+
     end
   end
 end
